@@ -1,0 +1,2 @@
+set -gx PATH /Developer/NVIDIA/CUDA-6.5/bin $PATH
+set -gx DYLD_LIBRARY_PATH /Developer/NVIDIA/CUDA-6.5/lib $DYLD_LIBRARY_PATH
